@@ -1,0 +1,20 @@
+   # Raw and processed data (too large / shouldn't be versioned)
+   week1_project/data/raw/*
+   week1_project/data/processed/*.pkl
+   !week1_project/data/raw/.gitkeep
+   !week1_project/data/processed/.gitkeep
+
+   # Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   .ipynb_checkpoints/
+
+   # Environment
+   venv/
+   .venv/
+   *.env
+
+   # OS
+   Thumbs.db
+   .DS_Store
