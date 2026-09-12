@@ -1,0 +1,30 @@
+{
+  "Delhi": {
+    "population_weighted_exposure_ugm3": 89.36,
+    "official_monitor_average_ugm3": 90.93,
+    "exposure_gap_ugm3": -1.57,
+    "exposure_gap_pct": -1.7,
+    "interpretation": "Official monitors OVER-report true population exposure"
+  },
+  "Mumbai": {
+    "population_weighted_exposure_ugm3": 92.14,
+    "official_monitor_average_ugm3": 99.12,
+    "exposure_gap_ugm3": -6.98,
+    "exposure_gap_pct": -7.0,
+    "interpretation": "Official monitors OVER-report true population exposure"
+  },
+  "Bengaluru": {
+    "population_weighted_exposure_ugm3": 93.59,
+    "official_monitor_average_ugm3": 92.74,
+    "exposure_gap_ugm3": 0.84,
+    "exposure_gap_pct": 0.9,
+    "interpretation": "Official monitors UNDER-report true population exposure"
+  },
+  "Chennai": {
+    "population_weighted_exposure_ugm3": 98.46,
+    "official_monitor_average_ugm3": 106.69,
+    "exposure_gap_ugm3": -8.23,
+    "exposure_gap_pct": -7.7,
+    "interpretation": "Official monitors OVER-report true population exposure"
+  }
+}

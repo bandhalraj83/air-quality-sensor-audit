@@ -1,0 +1,146 @@
+{
+  "Delhi": {
+    "city": "Delhi",
+    "target_population_weighted_exposure_ugm3": 89.36,
+    "current_network_avg_ugm3": 97.24,
+    "gap_before_ugm3": -1.6,
+    "recommended_new_stations": [
+      {
+        "rank": 1,
+        "lat": 28.65,
+        "lon": 77.24,
+        "estimated_pm25_ugm3": 121.9,
+        "population_in_cell": 20847.0,
+        "network_avg_after_ugm3": 93.34,
+        "remaining_gap_after_ugm3": -3.99
+      },
+      {
+        "rank": 2,
+        "lat": 28.62,
+        "lon": 77.25,
+        "estimated_pm25_ugm3": 124.5,
+        "population_in_cell": 18348.0,
+        "network_avg_after_ugm3": 95.57,
+        "remaining_gap_after_ugm3": -6.21
+      },
+      {
+        "rank": 3,
+        "lat": 28.65,
+        "lon": 77.21,
+        "estimated_pm25_ugm3": 120.7,
+        "population_in_cell": 19818.0,
+        "network_avg_after_ugm3": 97.24,
+        "remaining_gap_after_ugm3": -7.89
+      }
+    ],
+    "gap_after_all_recommendations_ugm3": -7.89
+  },
+  "Mumbai": {
+    "city": "Mumbai",
+    "target_population_weighted_exposure_ugm3": 92.14,
+    "current_network_avg_ugm3": 99.6,
+    "gap_before_ugm3": -6.87,
+    "recommended_new_stations": [
+      {
+        "rank": 1,
+        "lat": 19.11,
+        "lon": 72.85,
+        "estimated_pm25_ugm3": 114.8,
+        "population_in_cell": 22326.0,
+        "network_avg_after_ugm3": 100.45,
+        "remaining_gap_after_ugm3": -8.31
+      },
+      {
+        "rank": 2,
+        "lat": 19.08,
+        "lon": 72.85,
+        "estimated_pm25_ugm3": 112.6,
+        "population_in_cell": 22503.0,
+        "network_avg_after_ugm3": 101.46,
+        "remaining_gap_after_ugm3": -9.32
+      },
+      {
+        "rank": 3,
+        "lat": 19.25,
+        "lon": 72.86,
+        "estimated_pm25_ugm3": 77.2,
+        "population_in_cell": 11236.0,
+        "network_avg_after_ugm3": 99.6,
+        "remaining_gap_after_ugm3": -7.46
+      }
+    ],
+    "gap_after_all_recommendations_ugm3": -7.46
+  },
+  "Bengaluru": {
+    "city": "Bengaluru",
+    "target_population_weighted_exposure_ugm3": 93.59,
+    "current_network_avg_ugm3": 98.76,
+    "gap_before_ugm3": 0.63,
+    "recommended_new_stations": [
+      {
+        "rank": 1,
+        "lat": 12.96,
+        "lon": 77.6,
+        "estimated_pm25_ugm3": 115.5,
+        "population_in_cell": 20993.0,
+        "network_avg_after_ugm3": 95.46,
+        "remaining_gap_after_ugm3": -1.88
+      },
+      {
+        "rank": 2,
+        "lat": 13.0,
+        "lon": 77.63,
+        "estimated_pm25_ugm3": 115.7,
+        "population_in_cell": 18484.0,
+        "network_avg_after_ugm3": 97.48,
+        "remaining_gap_after_ugm3": -3.9
+      },
+      {
+        "rank": 3,
+        "lat": 12.97,
+        "lon": 77.63,
+        "estimated_pm25_ugm3": 111.5,
+        "population_in_cell": 18752.0,
+        "network_avg_after_ugm3": 98.76,
+        "remaining_gap_after_ugm3": -5.17
+      }
+    ],
+    "gap_after_all_recommendations_ugm3": -5.17
+  },
+  "Chennai": {
+    "city": "Chennai",
+    "target_population_weighted_exposure_ugm3": 98.46,
+    "current_network_avg_ugm3": 107.01,
+    "gap_before_ugm3": -8.08,
+    "recommended_new_stations": [
+      {
+        "rank": 1,
+        "lat": 13.05,
+        "lon": 80.23,
+        "estimated_pm25_ugm3": 124.1,
+        "population_in_cell": 16210.0,
+        "network_avg_after_ugm3": 108.74,
+        "remaining_gap_after_ugm3": -10.27
+      },
+      {
+        "rank": 2,
+        "lat": 12.92,
+        "lon": 80.17,
+        "estimated_pm25_ugm3": 80.7,
+        "population_in_cell": 6836.0,
+        "network_avg_after_ugm3": 105.62,
+        "remaining_gap_after_ugm3": -7.16
+      },
+      {
+        "rank": 3,
+        "lat": 13.08,
+        "lon": 80.25,
+        "estimated_pm25_ugm3": 119.5,
+        "population_in_cell": 16514.0,
+        "network_avg_after_ugm3": 107.01,
+        "remaining_gap_after_ugm3": -8.54
+      }
+    ],
+    "gap_after_all_recommendations_ugm3": -8.54
+  }
+}
